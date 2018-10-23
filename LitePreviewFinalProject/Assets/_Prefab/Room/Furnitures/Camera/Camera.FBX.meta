@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: a4ea668f3daf02748a0ee6bc2de231ea
+timeCreated: 1496418078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: cam_lens
+    100004: //RootNode
+    100006: control
+    100008: cover
+    100010: finder_arm
+    100012: finder_bod
+    100014: finder_eye
+    100016: light
+    100018: light_base
+    100020: mike
+    100022: monitor
+    100024: optics_1
+    100026: optics_2
+    100028: optics_ri1
+    100030: optics_rin
+    400000: body
+    400002: cam_lens
+    400004: //RootNode
+    400006: control
+    400008: cover
+    400010: finder_arm
+    400012: finder_bod
+    400014: finder_eye
+    400016: light
+    400018: light_base
+    400020: mike
+    400022: monitor
+    400024: optics_1
+    400026: optics_2
+    400028: optics_ri1
+    400030: optics_rin
+    2300000: body
+    2300002: cam_lens
+    2300004: control
+    2300006: cover
+    2300008: finder_arm
+    2300010: finder_bod
+    2300012: finder_eye
+    2300014: light
+    2300016: light_base
+    2300018: mike
+    2300020: monitor
+    2300022: optics_1
+    2300024: optics_2
+    2300026: optics_ri1
+    2300028: optics_rin
+    3300000: body
+    3300002: cam_lens
+    3300004: control
+    3300006: cover
+    3300008: finder_arm
+    3300010: finder_bod
+    3300012: finder_eye
+    3300014: light
+    3300016: light_base
+    3300018: mike
+    3300020: monitor
+    3300022: optics_1
+    3300024: optics_2
+    3300026: optics_ri1
+    3300028: optics_rin
+    4300000: light_base
+    4300002: light
+    4300004: optics_2
+    4300006: optics_1
+    4300008: optics_rin
+    4300010: body
+    4300012: mike
+    4300014: finder_eye
+    4300016: finder_bod
+    4300018: finder_arm
+    4300020: control
+    4300022: optics_ri1
+    4300024: cam_lens
+    4300026: cover
+    4300028: monitor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

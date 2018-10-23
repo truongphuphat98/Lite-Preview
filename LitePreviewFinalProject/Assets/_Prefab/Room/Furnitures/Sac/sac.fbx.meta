@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: cb1275f66d9b5064d83789916d4602db
+timeCreated: 1496672818
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: eness3d_00
+    100002: eness3d_01
+    100004: eness3d_02
+    100006: eness3d_03
+    100008: eness3d_04
+    100010: eness3d_05
+    100012: eness3d_06
+    100014: eness3d_07
+    100016: eness3d_08
+    100018: eness3d_09
+    100020: eness3d_10
+    100022: eness3d_11
+    100024: eness3d_12
+    100026: eness3d_13
+    100028: eness3d_14
+    100030: eness3d_15
+    100032: eness3d_16
+    100034: eness3d_17
+    100036: eness3d_18
+    100038: eness3d_19
+    100040: eness3d_20
+    100042: eness3d_21
+    100044: eness3d_22
+    100046: eness3d_22 1
+    100048: ENESS3D_Objet_Decoratif_Sacoche_cuir
+    100050: //RootNode
+    100052: transform3225
+    100054: transform3226
+    100056: transform3227
+    100058: transform3228
+    100060: transform3229
+    100062: transform3230
+    100064: transform3231
+    100066: transform3232
+    100068: transform3233
+    100070: transform3234
+    100072: transform3235
+    100074: transform3236
+    100076: transform3237
+    100078: transform3238
+    100080: transform3239
+    100082: transform3240
+    100084: transform3241
+    100086: transform3242
+    100088: transform3243
+    100090: transform3244
+    100092: transform3245
+    100094: transform3246
+    100096: transform3247
+    400000: eness3d_00
+    400002: eness3d_01
+    400004: eness3d_02
+    400006: eness3d_03
+    400008: eness3d_04
+    400010: eness3d_05
+    400012: eness3d_06
+    400014: eness3d_07
+    400016: eness3d_08
+    400018: eness3d_09
+    400020: eness3d_10
+    400022: eness3d_11
+    400024: eness3d_12
+    400026: eness3d_13
+    400028: eness3d_14
+    400030: eness3d_15
+    400032: eness3d_16
+    400034: eness3d_17
+    400036: eness3d_18
+    400038: eness3d_19
+    400040: eness3d_20
+    400042: eness3d_21
+    400044: eness3d_22
+    400046: eness3d_22 1
+    400048: ENESS3D_Objet_Decoratif_Sacoche_cuir
+    400050: //RootNode
+    400052: transform3225
+    400054: transform3226
+    400056: transform3227
+    400058: transform3228
+    400060: transform3229
+    400062: transform3230
+    400064: transform3231
+    400066: transform3232
+    400068: transform3233
+    400070: transform3234
+    400072: transform3235
+    400074: transform3236
+    400076: transform3237
+    400078: transform3238
+    400080: transform3239
+    400082: transform3240
+    400084: transform3241
+    400086: transform3242
+    400088: transform3243
+    400090: transform3244
+    400092: transform3245
+    400094: transform3246
+    400096: transform3247
+    2300000: eness3d_22
+    3300000: eness3d_22
+    4300000: eness3d_22
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

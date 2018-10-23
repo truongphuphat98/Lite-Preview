@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 0ef57fffcb55a344fb21e9ac4a4d44e8
+timeCreated: 1497962723
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AM152_016_01
+    100002: AM152_016_02
+    100004: AM152_016_04
+    100006: AM152_016_09
+    100008: AM152_016_10
+    100010: AM152_016_11
+    100012: AM152_016_12
+    100014: AM152_016_13
+    100016: AM152_016_15
+    100018: AM152_016_16
+    100020: AM152_016_17
+    100022: AM152_016_18
+    100024: AM152_016_19
+    100026: AM152_016_20
+    100028: AM152_016_20_MeshPart0
+    100030: AM152_016_20_MeshPart1
+    100032: AM152_016_20_MeshPart2
+    100034: AM152_016_21
+    100036: AM152_016_22
+    100038: AM152_016_23
+    100040: AM152_016_23_MeshPart0
+    100042: AM152_016_23_MeshPart1
+    100044: AM152_016_23_MeshPart2
+    100046: AM152_016_25
+    100048: AM152_016_30
+    100050: AM152_016_31
+    100052: AM152_016_32
+    100054: AM152_016_33
+    100056: AM152_016_34
+    100058: AM152_016_36
+    100060: AM152_016_37
+    100062: AM152_016_38
+    100064: AM152_016_39
+    100066: AM152_016_40
+    100068: //RootNode
+    100070: AM152_016_Archeo_brushed alu
+    100072: 'AM152_016_Archeo_white '
+    400000: AM152_016_01
+    400002: AM152_016_02
+    400004: AM152_016_04
+    400006: AM152_016_09
+    400008: AM152_016_10
+    400010: AM152_016_11
+    400012: AM152_016_12
+    400014: AM152_016_13
+    400016: AM152_016_15
+    400018: AM152_016_16
+    400020: AM152_016_17
+    400022: AM152_016_18
+    400024: AM152_016_19
+    400026: AM152_016_20
+    400028: AM152_016_20_MeshPart0
+    400030: AM152_016_20_MeshPart1
+    400032: AM152_016_20_MeshPart2
+    400034: AM152_016_21
+    400036: AM152_016_22
+    400038: AM152_016_23
+    400040: AM152_016_23_MeshPart0
+    400042: AM152_016_23_MeshPart1
+    400044: AM152_016_23_MeshPart2
+    400046: AM152_016_25
+    400048: AM152_016_30
+    400050: AM152_016_31
+    400052: AM152_016_32
+    400054: AM152_016_33
+    400056: AM152_016_34
+    400058: AM152_016_36
+    400060: AM152_016_37
+    400062: AM152_016_38
+    400064: AM152_016_39
+    400066: AM152_016_40
+    400068: //RootNode
+    400070: AM152_016_Archeo_brushed alu
+    400072: 'AM152_016_Archeo_white '
+    2300000: AM152_016_01
+    2300002: AM152_016_02
+    2300004: AM152_016_04
+    2300006: AM152_016_09
+    2300008: AM152_016_10
+    2300010: AM152_016_11
+    2300012: AM152_016_12
+    2300014: AM152_016_13
+    2300016: AM152_016_15
+    2300018: AM152_016_16
+    2300020: AM152_016_17
+    2300022: AM152_016_18
+    2300024: AM152_016_19
+    2300026: AM152_016_20_MeshPart0
+    2300028: AM152_016_20_MeshPart1
+    2300030: AM152_016_20_MeshPart2
+    2300032: AM152_016_21
+    2300034: AM152_016_22
+    2300036: AM152_016_23_MeshPart0
+    2300038: AM152_016_23_MeshPart1
+    2300040: AM152_016_23_MeshPart2
+    2300042: AM152_016_25
+    2300044: AM152_016_30
+    2300046: AM152_016_31
+    2300048: AM152_016_32
+    2300050: AM152_016_33
+    2300052: AM152_016_34
+    2300054: AM152_016_36
+    2300056: AM152_016_37
+    2300058: AM152_016_38
+    2300060: AM152_016_39
+    2300062: AM152_016_40
+    3300000: AM152_016_01
+    3300002: AM152_016_02
+    3300004: AM152_016_04
+    3300006: AM152_016_09
+    3300008: AM152_016_10
+    3300010: AM152_016_11
+    3300012: AM152_016_12
+    3300014: AM152_016_13
+    3300016: AM152_016_15
+    3300018: AM152_016_16
+    3300020: AM152_016_17
+    3300022: AM152_016_18
+    3300024: AM152_016_19
+    3300026: AM152_016_20_MeshPart0
+    3300028: AM152_016_20_MeshPart1
+    3300030: AM152_016_20_MeshPart2
+    3300032: AM152_016_21
+    3300034: AM152_016_22
+    3300036: AM152_016_23_MeshPart0
+    3300038: AM152_016_23_MeshPart1
+    3300040: AM152_016_23_MeshPart2
+    3300042: AM152_016_25
+    3300044: AM152_016_30
+    3300046: AM152_016_31
+    3300048: AM152_016_32
+    3300050: AM152_016_33
+    3300052: AM152_016_34
+    3300054: AM152_016_36
+    3300056: AM152_016_37
+    3300058: AM152_016_38
+    3300060: AM152_016_39
+    3300062: AM152_016_40
+    4300000: AM152_016_40
+    4300002: AM152_016_39
+    4300004: AM152_016_38
+    4300006: AM152_016_37
+    4300008: AM152_016_36
+    4300010: AM152_016_34
+    4300012: AM152_016_33
+    4300014: AM152_016_32
+    4300016: AM152_016_31
+    4300018: AM152_016_30
+    4300020: AM152_016_25
+    4300022: AM152_016_23_MeshPart0
+    4300024: AM152_016_23_MeshPart1
+    4300026: AM152_016_23_MeshPart2
+    4300028: AM152_016_22
+    4300030: AM152_016_21
+    4300032: AM152_016_20_MeshPart0
+    4300034: AM152_016_20_MeshPart1
+    4300036: AM152_016_20_MeshPart2
+    4300038: AM152_016_19
+    4300040: AM152_016_18
+    4300042: AM152_016_17
+    4300044: AM152_016_16
+    4300046: AM152_016_15
+    4300048: AM152_016_13
+    4300050: AM152_016_12
+    4300052: AM152_016_11
+    4300054: AM152_016_10
+    4300056: AM152_016_09
+    4300058: AM152_016_04
+    4300060: AM152_016_02
+    4300062: AM152_016_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
